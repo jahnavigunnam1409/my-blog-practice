@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Subscribe button styles */
 .subscribe-btn {
   background-color: #007bff;
@@ -8,6 +9,12 @@
 
 .subscribe-btn:hover {
   background-color: #0056b3;
+=======
+/* Dark theme styles */
+body {
+  background-color: #121212;
+  color: #f0f0f0;
+>>>>>>> 577a665 (feat: add dark theme styles)
 }
 
 /* Dark theme styles */
