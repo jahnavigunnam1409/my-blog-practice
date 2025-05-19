@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+
+# Build artifacts
+build/
+*.log
+
