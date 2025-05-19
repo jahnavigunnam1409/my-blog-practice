@@ -15,10 +15,16 @@ body {
   color: #f0f0f0;
 }
 
+<<<<<<< HEAD
 header {
   margin-top: 20px;
 }
 
 /* Footer widget 1 */
 /* Footer widget 2 */
+=======
+header { 
+  margin-top: 20px; 
+}
+>>>>>>> ec52715 (fix: add margin to header)
 
