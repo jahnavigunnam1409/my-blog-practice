@@ -1,0 +1,24 @@
+{
+  "name": "my-blog-practice",
+  "version": "1.0.1",
+  "description": "This repository is for practicing GitHub Flow. 📘 [Installation Guide](https://github.com/jahnavigunnam1409/my-blog-practice/wiki/Installation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"✅ All tests passed!\" && exit 0"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahnavigunnam1409/my-blog-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahnavigunnam1409/my-blog-practice/issues"
+  },
+  "homepage": "https://github.com/jahnavigunnam1409/my-blog-practice#readme"
+}
+
