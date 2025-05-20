@@ -4,6 +4,21 @@
   color: white;
   padding: 10px 20px;
 }
+
 .subscribe-btn:hover {
   background-color: #0056b3;
 }
+
+/* Dark theme styles */
+body {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+header {
+  margin-top: 20px;
+}
+
+/* Footer widget 1 */
+/* Footer widget 2 */
+
