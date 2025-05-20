@@ -16,6 +16,7 @@ body {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 header {
   margin-top: 20px;
 }
@@ -25,6 +26,13 @@ header {
 =======
 header { 
   margin-top: 20px; 
+=======
+header {
+  margin-top: 20px;
+>>>>>>> 5e99218 (Save current changes before pulling main)
 }
 >>>>>>> ec52715 (fix: add margin to header)
+
+/* Footer widget 1 */
+/* Footer widget 2 */
 
