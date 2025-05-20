@@ -4,8 +4,11 @@
   "description": "This repository is for practicing GitHub Flow. 📘 [Installation Guide](https://github.com/jahnavigunnam1409/my-blog-practice/wiki/Installation)",
   "main": "index.js",
   "scripts": {
-  "test": "echo \"✅ All tests passed!\" && exit 0"
-},
+    "test": "echo \"✅ All tests passed!\" && exit 0"
+  },
+  "dependencies": {
+    "lodash": "4.17.10"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jahnavigunnam1409/my-blog-practice.git"
@@ -18,3 +21,4 @@
   },
   "homepage": "https://github.com/jahnavigunnam1409/my-blog-practice#readme"
 }
+
